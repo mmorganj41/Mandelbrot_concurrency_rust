@@ -1,0 +1,1 @@
+A basic commandline program written in rust to generate an image of the mandelbrot set in grayscale from command line args.
